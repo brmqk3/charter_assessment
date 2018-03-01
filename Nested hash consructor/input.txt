@@ -1,0 +1,1 @@
+('app1|server1|uptime|5','app1|server1|loadavg|0.01 0.02 0.03','app1|server1|conn1|state|up','app1|server2|uptime|10','app1|server2|loadavg|0.11 0.220.33','app1|server2|conn1|state|down','app1|running|true',)
